@@ -36,8 +36,6 @@ Key highlights of this project:
 
 This template can serve as a starting point for ride-hailing apps, taxi services, or booking solutions.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## Built With
