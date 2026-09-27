@@ -71,8 +71,6 @@ Ideal for:
 - 📱 Ride-booking application concepts
 - 💻 Front-end UI and responsive design practice
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -87,8 +85,6 @@ Ideal for:
 - Easy to customize and expand
 - Suitable foundation for future booking and map integrations
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -97,8 +93,6 @@ This project is built using:
 
 - **HTML5**
 - **CSS3**
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
