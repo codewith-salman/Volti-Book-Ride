@@ -79,7 +79,6 @@ Ideal for:
 - Modern and professional interface
 - Clean and intuitive navigation
 - Ride and transportation service presentation
-- Mobile-friendly design
 - Lightweight and structured layout
 - Easy to customize and expand
 - Suitable foundation for future booking and map integrations
