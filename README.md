@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Volti%20Book%20Ride/assets/images/logo.png" alt="Volti Book Ride Logo" width="120"/>
+<img src="Volti%20Book%20Ride/assets/images/logo.svg" alt="Volti Book Ride Logo" width="120"/>
 
 <br />
 <br />
